@@ -9,7 +9,7 @@ I am a BTech CSE (AI & Machine Learning) student at VIT Bhopal University, passi
 - 🌱 **Current Focus:** Deepening my knowledge of **Natural Language Processing (NLP)**, **Computer Vision**, and building intelligent web apps using **Python, Flask, and SQLite**.
 - 💡 **What I'm Exploring:** Seamlessly integrating LLM APIs (like Gemini and Claude) into web environments to create smart, dynamic user experiences.
 - 🚀 **Hackathons:** Active participant (recently hacked away in April 2026!) and always looking for the next coding challenge.
-- ⚡ **Fun Fact:**When I step away from the keyboard, I spend my time **learning new concepts** (always staying curious!) and **listening to music** 🎧, which is my absolute favorite way to lock into a coding flow state.
+- ⚡ **Fun Fact:** When I step away from the keyboard, I spend my time **learning new concepts** (always staying curious!) and **listening to music** 🎧, which is my absolute favorite way to lock into a coding flow state.
 
 ---
 
